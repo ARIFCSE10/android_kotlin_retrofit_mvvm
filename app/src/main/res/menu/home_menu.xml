@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Wish List" android:id="@+id/wish_list" android:icon="@drawable/ic_favorite_black_24dp"
+          app:showAsAction="always" android:visible="true" android:enabled="true"/>
+    <item android:title="My Cart" android:id="@+id/cart_list" android:icon="@drawable/ic_shopping_cart_black_24dp"
+          app:showAsAction="always" android:visible="true" android:enabled="true"/>
+    <item android:title="Signout" android:id="@+id/signout" android:icon="@drawable/ic_exit_to_app_black_24dp"
+          app:showAsAction="ifRoom" android:visible="true" android:enabled="true"/>
+</menu>

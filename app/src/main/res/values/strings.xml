@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Book Shop</string>
+    <string name="loading">Loading</string>
+    <string name="title_activity_login">User Login</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email*</string>
+    <string name="prompt_password">Password*</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="sign_up_message">New User ? Register Here</string>
+    <string name="action_sign_up">Sign Up</string>
+    <string name="user_logged_in_pref">USER_HAS_LOGGED_IN</string>
+    <string name="user_token_pref">USER_TOKEN</string>
+    <string name="user_name_pref">USER_NAME</string>
+    <string name="user_email_pref">USER_EMAIL</string>
+    <string name="email_is_not_valid">Email is not Valid</string>
+    <string name="password_is_not_valid">Minimum Length is 6 Characters</string>
+    <string name="login_successfull">Successfully Logged In</string>
+    <string name="sp_app_name">SP_BOOK_SHOP</string>
+    <string name="name_is_not_valid">Name Should not be empty</string>
+    <string name="prompt_name">Full Name</string>
+    <string name="my_wish_list">My Wish List</string>
+    <string name="my_cart_list">My Cart</string>
+    <string name="book_parcelable">BOOK_PARCEL</string>
+</resources>
